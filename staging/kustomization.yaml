@@ -1,3 +1,6 @@
 bases:
 - ../base
 namePrefix: staging-
+images:
+- name: gcr.io/heptio-images/ks-guestbook-demo
+  newTag: "0.1"

@@ -3,4 +3,4 @@ bases:
 namePrefix: dev-
 images:
 - name: gcr.io/heptio-images/ks-guestbook-demo
-  newTag: "2"
+  newTag: "0.2"
